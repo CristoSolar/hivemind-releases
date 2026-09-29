@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "gogema.hivemind",
+  "name": "HiveMind",
+  "version": "0.2.7",
+  "author": "CristoSolar",
+  "license": "LicenseRef-Proprietary",
+  "description": "Un equipo de agentes de Claude en tu escritorio: chats, grupo con @menciones, rutinas, tablero y aprobaciones desde la barra.",
+  "kinds": ["bar-widget"],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "HiveMind",
+    "description": "Estado de tus agentes y aprobaciones pendientes.",
+    "category": "Productivity",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}

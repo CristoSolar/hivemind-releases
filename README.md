@@ -20,6 +20,14 @@ Repetirlo actualiza. Para desinstalar sin perder tus agentes ni chats:
 curl -fsSL https://hivemindai.cl/install.sh | bash -s -- --uninstall
 ```
 
+**Omarchy, con la abeja en la barra** (avisos y aprobaciones sin abrir la ventana):
+
+```bash
+omarchy plugin add https://github.com/CristoSolar/hivemind-releases --enable
+```
+
+La primera vez, la abeja ofrece instalar la app.
+
 Requiere [Claude Code](https://claude.com/claude-code) con sesión iniciada, o un proveedor configurado.
 
 Todas las versiones: [Releases](https://github.com/CristoSolar/hivemind-releases/releases).
