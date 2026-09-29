@@ -1,13 +1,81 @@
-Copyright (c) 2026 CristoSolar. All rights reserved.
+HiveMind — Licencia de uso de la beta (EULA)
+Copyright (c) 2026 CristoSolar. Todos los derechos reservados.
 
-This software and its source code are proprietary and confidential. No part of it
-may be copied, modified, distributed, sublicensed or used, in whole or in part,
-without a valid license purchased from, or prior written permission of, the
-copyright holder.
+Al instalar o usar HiveMind aceptas estos términos. Si no los aceptas, no lo instales.
 
-Versions released before this notice (up to and including v0.1.0) were published
+1. Qué puedes hacer. Mientras dure la beta, te damos una licencia gratuita, personal, no
+   exclusiva, intransferible y revocable para instalar HiveMind en tus equipos y usarlo, incluso
+   en tu trabajo. Solo vale para copias descargadas de https://hivemindai.cl o de
+   https://github.com/CristoSolar/hivemind-releases.
+
+2. Qué no puedes hacer. Salvo que lo autoricemos por escrito, no puedes:
+   copiar ni redistribuir HiveMind, pero sí compartir el enlace oficial de descarga; venderlo,
+   alquilarlo ni sublicenciarlo; modificarlo, descompilarlo ni hacerle ingeniería inversa, salvo
+   en lo que la ley te lo permita aunque esta licencia lo prohíba; usar su código o su diseño
+   para crear un producto derivado o competidor; ni quitar estos avisos.
+
+3. Es una beta. Puede tener errores, cambiar o dejar de funcionar. Algunas funciones podrán
+   pasar a ser de pago más adelante. Podemos terminar la beta avisando con al menos 30 días en
+   el sitio o en la app; tus agentes, chats y configuración seguirán en tu equipo.
+
+4. Tus datos y tus cuentas. HiveMind corre en tu equipo y no nos envía tus conversaciones ni
+   tus archivos. Solo consulta GitHub para saber si hay una versión nueva. Lo que mandes a tu
+   proveedor de IA (Anthropic, OpenAI u otro) se rige por sus términos. Tú eres responsable de
+   tus cuentas y claves de API, y de cumplir los términos de esos proveedores.
+
+5. Los agentes actúan con tus permisos. Pueden leer, escribir y borrar archivos y ejecutar
+   comandos en tu equipo, según los permisos que les des. Si activas «Editar sin preguntar» o
+   «Autónomo», lo harán sin pedirte aprobación: úsalo bajo tu propio riesgo y ten respaldo de
+   lo que te importe.
+
+6. Sin garantía. HiveMind se entrega «tal cual», sin garantías de ningún tipo, expresas ni
+   implícitas. En la máxima medida que permita la ley, no respondemos por daños, pérdida de
+   datos, costos de proveedores de IA ni otros perjuicios que resulten de usarlo.
+
+7. Componentes de terceros. HiveMind incluye software de terceros (por ejemplo Python, GTK,
+   libadwaita, claude-agent-sdk y las fuentes Geist) que conserva sus propias licencias; esta
+   licencia no las reemplaza.
+
+8. Término. Esta licencia termina si no cumples estos términos o cuando termine la beta. Al
+   terminar debes dejar de usar HiveMind y desinstalarlo.
+
+9. Ley aplicable. Estos términos se rigen por las leyes de Chile.
+
+Contacto: https://hivemindai.cl
+
+Las versiones publicadas antes del aviso de licencia propietaria (hasta la v0.1.0 inclusive)
+se publicaron bajo la licencia MIT y siguen disponibles en esos términos para quien las obtuvo.
+
+---
+
+HiveMind — Beta End User License Agreement (EULA). The Spanish text above governs; this is a
+translation.
+
+1. You may install HiveMind on your devices and use it, including for work, under a free,
+   personal, non-exclusive, non-transferable, revocable license for the duration of the beta,
+   for copies downloaded from https://hivemindai.cl or
+   https://github.com/CristoSolar/hivemind-releases.
+2. Unless we authorize it in writing, you may not copy or redistribute it (sharing the official
+   download link is fine), sell, rent or sublicense it, modify, decompile or reverse engineer it
+   (except where the law allows it despite this license), use its code or design to build a
+   derivative or competing product, or remove these notices.
+3. It is a beta: it may have bugs, change or stop working, and some features may become paid.
+   We may end the beta with at least 30 days' notice on the site or in the app; your agents,
+   chats and settings stay on your device.
+4. HiveMind runs on your device and does not send us your conversations or files; it only asks
+   GitHub whether a new version exists. What you send to your AI provider is governed by its
+   terms. You are responsible for your accounts and API keys and for complying with those terms.
+5. Agents act with your permissions and can read, write and delete files and run commands on
+   your device. With «Editar sin preguntar» or «Autónomo» they do so without asking: use them at
+   your own risk and keep backups.
+6. HiveMind is provided "as is", without warranty of any kind. To the maximum extent permitted
+   by law, we are not liable for damages, data loss, AI provider costs or other losses arising
+   from its use.
+7. Third-party components (such as Python, GTK, libadwaita, claude-agent-sdk and the Geist
+   fonts) keep their own licenses.
+8. This license ends if you breach it or when the beta ends; you must then stop using and
+   uninstall HiveMind.
+9. Governed by the laws of Chile.
+
+Versions released before the proprietary notice (up to and including v0.1.0) were published
 under the MIT License and remain available under those terms to whoever obtained them.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
-IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
