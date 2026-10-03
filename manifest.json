@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "gogema.hivemind",
   "name": "HiveMind",
-  "version": "0.2.16",
+  "version": "0.2.17",
   "author": "CristoSolar",
   "license": "LicenseRef-Proprietary",
   "description": "Un equipo de agentes de Claude en tu escritorio: chats, grupo con @menciones, rutinas, tablero y aprobaciones desde la barra.",
