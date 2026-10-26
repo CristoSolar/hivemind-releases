@@ -471,7 +471,8 @@ Panel {
                 Button { text: "Denegar"; foreground: root.foreground; fontFamily: root.fontFamily; bordered: true
                          onClicked: root.send("approve", { approval: modelData.id, decision: "deny" }) }
                 Button { text: "Siempre"; foreground: root.foreground; fontFamily: root.fontFamily
-                         tooltipText: "Guardará: " + (modelData.rule || modelData.tool)
+                         visible: !!modelData.rule  // none for a connector that sends, publishes, deletes or spends
+                         tooltipText: "Guardará: " + modelData.rule
                          onClicked: root.send("approve", { approval: modelData.id, decision: "always" }) }
               }
             }
